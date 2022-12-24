@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# :thermometer: Weather App with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Patika.dev Redux module "Weather App" project.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+[https://ismailkaraalioglu-weatherapplive.netlify.app](https://ismailkaraalioglu-weatherapplive.netlify.app)
 
-### `npm start`
+## :key: Get API key
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[https://openweathermap.org/](https://openweathermap.org/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Accesses Open Weather API for weather data.
+- REACT_APP_API_KEY=your-api
 
-### `npm test`
+## :computer: Setup
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository and install its features.
 
-### `npm run build`
+```
+npm install or yarn install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Create .env and add the follow key.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+add project .env file and the follow key (REACT_APP_API_KEY=your-api)
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Use the project locally (localhost).
 
-### `npm run eject`
+```
+npm start or yarn start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Project Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+:heavy_check_mark: Dark and light theme <br />
+:heavy_check_mark: City finder <br />
+:heavy_check_mark: Today and daily weather information <br />
+:heavy_check_mark: State management with Redux <br />
+:heavy_check_mark: Get weather information of your location <br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## :fire: Technologies and Libraries
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+:point_right: React.js <br />
+:point_right: Redux <br />
+:point_right: Redux Toolkit <br />
+:point_right: Axios <br />
+:point_right: Tailwind CSS <br />
+:point_right: Moment.js <br />
+:point_right: React-Icons <br />
+:point_right: React-Hot-Toast <br />
