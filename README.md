@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[https://ismailkaraalioglu-weatherapplive.netlify.app](https://ismailkaraalioglu-weatherapplive.netlify.app)
+[Click](https://aquamarine-dango-9dd75c.netlify.app)
 
 ## :key: Get API key
 
@@ -51,3 +51,7 @@ npm start or yarn start
 :point_right: Moment.js <br />
 :point_right: React-Icons <br />
 :point_right: React-Hot-Toast <br />
+
+### You have to allow to get location your browser.
+
+### If you want to use this project, you have to pay for onecall API. It's actually free for 2000 clicks per day.
