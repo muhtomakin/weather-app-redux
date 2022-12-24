@@ -1,6 +1,5 @@
 # :thermometer: Weather App with React
 
-- Patika.dev Redux module "Weather App" project.
 
 ## Live Demo
 
